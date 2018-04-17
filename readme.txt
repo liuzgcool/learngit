@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Test 'git diff'.
 'git diff --cached'
 Git tracks changes of files.
+Creating a new branch is quick.
